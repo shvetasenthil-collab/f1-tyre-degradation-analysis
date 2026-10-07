@@ -1,4 +1,4 @@
-# Formula 1 Tyre Degradation Analysis 🏎️
+# Formula 1 Tyre Degradation Analysis 
 
 A Python data analysis project investigating tyre degradation using real
 Formula 1 race data from the FastF1 library.
