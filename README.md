@@ -16,7 +16,6 @@ This project explores these effects using Formula 1 lap data and regression
 analysis.
 
 The analysis:
-
 - Explores lap and tyre data using FastF1
 - Cleans race data and removes pit-in and pit-out laps
 - Visualises lap times across different tyre compounds
@@ -27,7 +26,7 @@ The analysis:
 ## Key Findings
 
 The initial simple regression produced a tyre-age coefficient of
-**-0.0284 seconds per lap**, suggesting lap times became faster as the tyres
+-0.0284 seconds per lap, suggesting lap times became faster as the tyres
 aged.
 
 This counterintuitive result highlighted the effect of race progression,
