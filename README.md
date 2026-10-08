@@ -12,7 +12,7 @@ This project explores these effects using Formula 1 lap data and regression anal
 
 The analysis:
 - Explores lap and tyre data using FastF1
-- Cleans race data and removes pit-in and pit-out laps
+- Cleans race data and removes pit in and pit out laps
 - Visualises lap times across different tyre compounds
 - Uses simple linear regression to investigate tyre degradation
 - Identifies the effect of confounding variables on the initial model
