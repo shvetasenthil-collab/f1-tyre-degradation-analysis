@@ -55,13 +55,3 @@ should not be interpreted as universal tyre-degradation rates.
 
 Factors such as traffic, fuel load, track evolution and driver behaviour may
 also influence lap times.
-
-## Future Improvements
-
-Future analysis could:
-
-- Compare tyre degradation across multiple drivers
-- Analyse multiple races and circuits
-- Compare degradation between tyre compounds
-- Incorporate weather and track-temperature data
-- Investigate optimal pit-stop windows
